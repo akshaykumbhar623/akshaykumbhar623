@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**akshaykumbhar623/akshaykumbhar623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🔭 I’m currently working on:
+Data Analytics portfolio projects focused on business insights
+Building interactive dashboards using Power BI
+Solving real-world business problems with data
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:
+Advanced SQL for data analysis
+Data visualization & storytelling techniques
+Business intelligence and analytics tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👯 I’m looking to collaborate on:
+Data analytics & business intelligence projects
+Dashboard development and data reporting solutions
+
+🤔 I’m looking for help with:
+Enhancing advanced analytics skills
+Exploring new data tools and industry best practices
+
+💬 Ask me about:
+SQL, Excel, Power BI
+Data analysis & reporting
+Process optimization and business insights
+
+📫 How to reach me:
+Email: kumbharakshay85@gmail.com
+
+LinkedIn: (www.linkedin.com/in/akshay-kumbhar-447875195)
+
+😄 Pronouns:
+He / Him
+
+⚡ Fun fact:
+I enjoy transforming complex datasets into clear, actionable business insights.
 -->
